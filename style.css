@@ -1,0 +1,45 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0px;
+}
+.mp{
+    font-size: 15px;
+    color: red;
+
+}
+body{
+    background-size: cover;
+}
+.dispeed{
+    float: left;
+}
+.disimg{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.dispeed1{
+    float:right;
+}
+.disimg1{
+    width: 200px;
+    border-radius: 100px;
+}
+#sidc{
+    font-size: 25px;
+    margin: 15px;
+
+
+}
+#sidl{
+    font-size: 25px;
+    margin: 15px;
+    
+
+}
+canvas{
+    border:2px solid white;
+    border-radius: 20px;
+    margin-top: 50px;
+}
